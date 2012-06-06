@@ -1,3 +1,4 @@
 Первая версия текста. Начало.
-Это первое изменение для версии девелоп.
+First change in develop.
+Second change in develop.
 
